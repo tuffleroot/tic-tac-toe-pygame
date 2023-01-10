@@ -1,0 +1,7 @@
+1. window
+2. board
+3. player 1 and player 2 chances
+4. Placing crosses and circles on the board
+5. check if there is any winner
+6. continue game till the board is filled , show no one wins
+7. restart button to start the game again
